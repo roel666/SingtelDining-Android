@@ -53,6 +53,6 @@
 		android:smallScreens="true"
 		android:normalScreens="true"
 		android:largeScreens="true"
-		android:anyDensity="false">
+		android:anyDensity="true">
 	</supports-screens>
 </manifest> 
